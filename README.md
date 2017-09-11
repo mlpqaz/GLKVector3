@@ -216,7 +216,6 @@ vectorStart
 vectorEnd
 提供终点坐标的向量。
 回报值
-
 两点之间的距离。
 可用性
 
